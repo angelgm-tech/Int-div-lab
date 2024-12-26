@@ -2,8 +2,6 @@
 
 A powerful, interactive tool for creating and customizing beautiful div elements with real-time preview. Perfect for developers and designers who want to quickly prototype and export styled components.
 
-![Interactive Div Lab Preview](https://raw.githubusercontent.com/yourusername/interactive-div-lab/main/preview.png)
-
 ## ✨ Features
 
 - 🎨 Real-time visual styling
